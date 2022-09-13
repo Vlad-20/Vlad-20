@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Vlad Vlaicu</h2>
-<h3 align="left">Student at Technical University of Cluj Napoca🌟.</h3>
+<h3 align="left">Student at Technical University of Cluj Napoca🌟</h3>
 
 <br>
 
