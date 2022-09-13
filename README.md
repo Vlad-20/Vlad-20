@@ -27,7 +27,23 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp" height="30" width="40" />
   <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html" height="30" width="40" /> <br>
-  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/git.svg" alt="git" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" alt="lightroom" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/photoshop.svg" alt="photoshop" height="30" width="40" />
+</p>
+
+<br>
+
+<h3>GitHub statistics:</h3>
+<p align="center">
+<!--
+  <img align="center" src="https://vlad-20-clone.vercel.app/api/top-langs/?username=Vlad-20&layout=compact" alt="vlad-20" /><br>
+<br>
+-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlad-20&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&title_color=5c32a8&icon_color=5c32a8" alt="vlad-20" /></p>
 
 <!---
 Vlad-20/Vlad-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
