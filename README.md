@@ -24,6 +24,7 @@
 <h3 align="left">Programming languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp" height="30" width="40" />
   <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html" height="30" width="40" /> <br>
