@@ -27,11 +27,13 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="c" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cpp" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp" height="30" width="40" />
-  <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html" height="30" width="40" /> <br>
+  <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="html" height="30" width="40" />
+  <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css" height="30" width="40" /> <br>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/git.svg" alt="git" height="30" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" height="30" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="vs" height="30" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/GameEngines/unity.svg" alt="unity" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/linux.svg" alt="linux" height="30" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" alt="lightroom" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/photoshop.svg" alt="photoshop" height="30" width="40" />
