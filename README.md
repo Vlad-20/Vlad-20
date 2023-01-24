@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Vlad-20" width="350" height="350" /></p>
 
-- 🌱 I’m currently learning Java and Mobile App Development
+- 🌱 I’m currently studying Electrical Engineering
 - 📫 How to reach me **andreivlad0306@gmail.com**
 - 🤝 I’m available for collaborations
 
