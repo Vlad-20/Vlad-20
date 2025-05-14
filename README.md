@@ -6,8 +6,8 @@
 <p><img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Vlad-20" width="350" height="350" /></p>
 
 - 🌱 I’m currently learning **Cybersecurity**
-- 👨‍💻 All of my projects are available at [vladvlaicu.com](vladvlaicu.com)
-- 📝 I regularly write articles on [vladvlaicu.com](vladvlaicu.com)
+- 👨‍💻 All of my projects are available at [vladvlaicu.com](https://vladvlaicu.com/)
+- 📝 I regularly write articles on [vladvlaicu.com](https://vladvlaicu.com/)
 - 📫 How to reach me **vlad.a.vlaicu@gmail.com**
 
 <br>
